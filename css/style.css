@@ -68,6 +68,13 @@ body {
   outline: 0 !important;
 }
 
+.theMinus60Gang {
+  margin-top: -60px;
+}
+@media (max-width: 1000px) {
+  .theMinus60Gang {margin-top: 0px;}
+}
+
 hr {
   box-sizing: content-box;
   height: 0;
